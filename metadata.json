@@ -1,0 +1,5 @@
+{
+  "name": "spot_pitch.ai",
+  "description": "spot_pitch.ai helps students generate a comprehensive business pitch from their startup ideas using the Gemini API. It provides an elevator pitch, key slide points, taglines, and more to help kickstart their entrepreneurial journey.",
+  "requestFramePermissions": []
+}
