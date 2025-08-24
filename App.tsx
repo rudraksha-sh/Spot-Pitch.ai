@@ -121,7 +121,7 @@ const App: React.FC = () => {
         
         <header className="text-center mb-10 pt-16 sm:pt-20">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white">
-            Search with
+            Generate with
             <span className="block bg-gradient-to-r from-fuchsia-400 to-pink-500 bg-clip-text text-transparent mt-1">
               Seamless Power
               <span className="text-fuchsia-400 text-3xl align-middle relative -top-3 ml-1">✨</span>
