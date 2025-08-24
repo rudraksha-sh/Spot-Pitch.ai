@@ -14,7 +14,7 @@ const App: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
 
   const [placeholder, setPlaceholder] = useState<string>('');
-  const typingTimeoutRef = useRef<number | null>(null);
+  const typingTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const isAnimationRunning = useRef(true);
 
   const placeholderIdeas = useRef([
